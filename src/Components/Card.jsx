@@ -1,5 +1,5 @@
 
-export default function Cartao({img, titulo, link}){
+export default function Cartao({img, titulo, link, button}){
 return(
     <div>
     <div className="BoxCartao">
@@ -7,7 +7,7 @@ return(
       <div className="Cartao">
         <h2>{titulo}</h2>
         <img width={150} alt="" src={img}></img>
-        <button onClick={()=>IrParaGit()}>VER NO GITHUB</button>
+        <button onClick={()=>IrParaGit()}>{button}</button>
    
       </div>
 
