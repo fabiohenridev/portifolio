@@ -31,3 +31,8 @@
     display: flex;
     flex-direction: column;
   }
+  @media (max-width: 782px){
+    .Cartao{
+      width: 100px;
+    }
+  }
