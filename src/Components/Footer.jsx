@@ -8,6 +8,7 @@ export default function Footer(){
               <i class="bi bi-person-workspace icone" ></i>
            </div>
            <h5>FEITO POR FABIO HENRIQUE</h5>
+           <h6>Matrícula: 01730423</h6>
         </div>
     )
 }

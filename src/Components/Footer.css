@@ -5,6 +5,11 @@ h2{
 h5{
     color: white;
 }
+h6{
+    color: white;
+    position: relative;
+    bottom: 40px;
+}
 
 .BoxFooter{
     height: 200px;
