@@ -1,0 +1,13 @@
+.Apresentation p{
+color: rgb(255, 255, 255);
+text-align: center;
+}
+.Apresentation{
+    width: 100%;
+    max-width: 650px;
+    margin-top: 50px;
+}
+.BoxApresentation{
+    display: flex;
+    justify-content: center;
+}

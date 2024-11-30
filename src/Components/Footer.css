@@ -1,0 +1,24 @@
+h2{
+    color: white;
+    padding: 10px;
+}
+h5{
+    color: white;
+}
+
+.BoxFooter{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.TextPort{
+    display: flex;
+    align-items: center;
+}
+
+.TextPort .icone{
+    font-size: 30px;
+    color: white;
+}

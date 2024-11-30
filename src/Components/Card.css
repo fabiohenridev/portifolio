@@ -1,0 +1,33 @@
+.Cartao{
+    border: 1px solid rgb(154, 154, 154);
+    width: 200px;
+   display: flex;
+   text-align: center;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin: 30px;
+   cursor:pointer;
+  }
+  .Cartao:hover{
+    transform: scale(1.1);
+    transition: 2.ms;
+  }
+  .Cartao img{
+    border: 1px solid rgb(154, 154, 154);
+   width: 100%;
+  }
+   .Cartao button{
+ width: 100%;
+    border: none;
+    background-color: rgb(119, 0, 255);
+    height: 40px;
+    cursor: pointer;
+    border-top: black;
+    color: white;
+  }
+  .BoxCartao{
+    
+    display: flex;
+    flex-direction: column;
+  }
