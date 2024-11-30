@@ -37,3 +37,9 @@
       
     }
   }
+
+  @media(max-width: 651px){
+.Cartao{
+  width: 250px;
+}
+  }

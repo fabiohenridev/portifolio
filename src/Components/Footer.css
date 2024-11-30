@@ -22,3 +22,9 @@ h5{
     font-size: 30px;
     color: white;
 }
+
+@media (max-width: 651px){
+h2{
+    font-size: 20px;
+}
+}

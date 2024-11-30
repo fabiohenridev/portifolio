@@ -9,3 +9,10 @@
 .Linkss{
     margin-top: 50px;
 }
+
+@media(max-width: 651px){
+.Linkss{
+    font-size: 10px;
+}
+
+}
