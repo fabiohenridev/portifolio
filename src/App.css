@@ -3,7 +3,7 @@ body{
   display: flex;
   text-align: center;
   justify-content: center;
-  background-color: rgb(24, 24, 24);
+  background-color: gray;
 }
 .cards{
   display: flex;
