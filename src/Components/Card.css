@@ -20,7 +20,7 @@
    .Cartao button{
  width: 100%;
     border: none;
-    background-color: black;
+    background-color: rgb(119, 0, 255);
     height: 40px;
     cursor: pointer;
     border-top: black;
